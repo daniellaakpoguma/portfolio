@@ -26,7 +26,7 @@ body {
 } 
 
 .logo .logo-heading { 
-    color: #fff; 
+    color: #f0e10e;
 } 
 
 .menu { 
@@ -82,6 +82,11 @@ body {
     align-items: center; 
     justify-content: space-evenly; 
 } 
+
+/* Home Section styles */
+#home {
+    background-color: #110f75;
+}
 
 /* About section styles */
 .about { 
