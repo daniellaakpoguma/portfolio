@@ -17,7 +17,6 @@ body {
     position: fixed; 
     top: 0; 
     width: 100%; 
-    /* background-image: linear-gradient(90deg, #7d86f3, #3c4ae3, #050d66); */
     background-color: #110f75;
 } 
 
@@ -31,11 +30,12 @@ body {
 
 .menu { 
     padding: 0 5rem; 
+    color: #f0e10e;
 } 
 
 .hamburger { 
     display: none; 
-    color: #fff; 
+    color: #f0e10e;
     font-size: 25px; 
 } 
 
@@ -95,6 +95,7 @@ body {
     background-image: linear-gradient(45deg, #363D73, #2794B3); 
     justify-content: space-between; 
     width: 100%; 
+    position: fixed; 
 } 
 
 .about .about-text { 
@@ -264,11 +265,13 @@ body {
     font-weight: lighter; 
     margin: 0; 
     letter-spacing: 1px; 
+    color: #f0e10e;
 } 
 
 .my-heading { 
     font-size: 2.5rem; 
     margin: 0; 
+    color: #f0e10e;
 } 
 
 .sub-heading { 
@@ -299,9 +302,9 @@ body {
 } 
 
 .common-btn { 
-    background-color: #35A99C; 
+    background-color: #f0e10e; 
     color: #fff; 
-    border: 2px solid #35A99C; 
+    border: 2px solid #f0e10e; 
     transition: all 0.25s; 
 } 
 
