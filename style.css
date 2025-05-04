@@ -46,7 +46,6 @@ body {
 .menu .menu-list { 
     display: flex; 
     list-style: none; 
-    color: #f0e10e;
 } 
 
 .menu-list .menu-list-items { 
