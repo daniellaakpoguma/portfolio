@@ -231,7 +231,7 @@ body {
     width: 50px; 
     margin: 1rem 1rem 0 1rem; 
     border-radius: 50%; 
-    background-color: #53C8B6; 
+    background-color: #110f75;
 } 
 
 .footer-links { 
@@ -266,7 +266,7 @@ body {
     font-weight: lighter; 
     margin: 0; 
     letter-spacing: 1px; 
-    color: #f0e10e;
+    color: #110f75;
 } 
 
 .my-heading { 
